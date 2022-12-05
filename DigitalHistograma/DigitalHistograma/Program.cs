@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text;
 
-namespace DigitalConsole
+namespace DigitalHistograma
 {
     class Program
     {
@@ -19,7 +19,7 @@ namespace DigitalConsole
                 {
                     cantidad.Append("*");
                 }
-                Console.WriteLine(item.Value.ToString() + cantidad);
+                Console.WriteLine(item.Value.ToString() + ": " + cantidad);
             }
         }
     }

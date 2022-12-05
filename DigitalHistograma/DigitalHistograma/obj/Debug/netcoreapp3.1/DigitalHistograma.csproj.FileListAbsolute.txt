@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\bin\Debug\netcoreapp3.1\DigitalHistograma.exe
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\bin\Debug\netcoreapp3.1\DigitalHistograma.deps.json
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\bin\Debug\netcoreapp3.1\DigitalHistograma.runtimeconfig.json
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\bin\Debug\netcoreapp3.1\DigitalHistograma.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\bin\Debug\netcoreapp3.1\DigitalHistograma.dll
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\bin\Debug\netcoreapp3.1\DigitalHistograma.pdb
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.AssemblyInfo.cs
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.dll
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.pdb
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalHistograma\DigitalHistograma\obj\Debug\netcoreapp3.1\DigitalHistograma.genruntimeconfig.cache
