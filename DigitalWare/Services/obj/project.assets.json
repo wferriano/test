@@ -5927,11 +5927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\DigitalWare\\DigitalWare\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\DigitalWare\\test\\DigitalWare\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\DigitalWare\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\test\\DigitalWare\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\DigitalWare\\Services\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\test\\DigitalWare\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5955,8 +5955,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\DigitalWare\\DigitalWare\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\DigitalWare\\Business\\Business.csproj"
+            "C:\\Users\\Dell\\Desktop\\DigitalWare\\test\\DigitalWare\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\test\\DigitalWare\\Business\\Business.csproj"
             }
           }
         }

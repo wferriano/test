@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\bin\Debug\netcoreapp3.1\DigitalConsole.exe
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\bin\Debug\netcoreapp3.1\DigitalConsole.deps.json
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\bin\Debug\netcoreapp3.1\DigitalConsole.runtimeconfig.json
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\bin\Debug\netcoreapp3.1\DigitalConsole.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\bin\Debug\netcoreapp3.1\DigitalConsole.dll
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\bin\Debug\netcoreapp3.1\DigitalConsole.pdb
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.AssemblyInfo.cs
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.dll
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.pdb
+C:\Users\Dell\Desktop\DigitalWare\test\DigitalConsole\DigitalConsole\obj\Debug\netcoreapp3.1\DigitalConsole.genruntimeconfig.cache

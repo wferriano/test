@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7jEJfEP2Hi+7qXUBXiC3Yr8W3Q2PQnSBTeEumdHEFim5+nmismxPmlMBALn/SzSCcQrBTzMzm/tbM9R3a4kkg==",
+  "dgSpecHash": "q6rdrooM0gZopzKPDvFrzbPoYL2uYpGjJz63oU/ojzuTBPxNTYQVmLmA9YNVugtO0KE00pKYe0xlDsYWOQkhwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\DigitalWare\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\test\\DigitalWare\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

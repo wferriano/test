@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vv4Z5+Au68PpFVbbxNpDpwgpXRlwhvBIZr3pde9vPfR/OaAlt9FvbeA/a7ogAZJhpewbu/R2vrwEC99DzUHthw==",
+  "dgSpecHash": "aIUQuCtQeC7V6BaFiLr5INhuhYzUWFnYqOui5hO/u4OwQ+kxRxqYvANuKwUdC0W+J2Uq0m16zPARZmb25s5xPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\DigitalWare\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\DigitalWare\\test\\DigitalWare\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
